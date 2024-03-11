@@ -13,3 +13,7 @@
 2. 제외된 데이터와 label 데이터를 train 데이터와 test 데이터로 나눈다,
 3. 각train 데이터로 학습을 하고 label을 제외한 test 데이터로 예측을 진행한다.
 4. 예측한 label 값을 기존 test label과 비교하여 정확도를 측정한다.
+
+평가 방식
+분류 = 정확도, confusion_matrix / 1에 가까울수록 좋음
+최귀 = mse(예측값 - 실제값)^2 / 크면 클수록 좋음
