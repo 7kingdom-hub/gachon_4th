@@ -7,7 +7,7 @@
 1. breast_cancer.csv 데이터를 이용하여 여러가지 ML 진행
 2. 1번 코드를 응용하여 diabetes.csv 데이터로 여러가지 ML 진행
 
-3주차(3월 18일) 과제
+3주차(3월 18일) 과제 完
 1. iris.data를 사용해서 헤더가 없을 때 피쳐명 설정 후 ML 진행
 2. Raisin.xlsx을 사용해서 csv 파일과 xlsx 파일의 차이를 알고 ML 진행
 3. 타이타닉 데이터를 사용해서 데이터 관리 진행 방식과 방법 숙지
@@ -28,3 +28,10 @@
 3주차 진행과정
 1. 내용 복습
 2. .csv는 read_csv / .xlsx는 read_excel
+3. data Loading
+   data collection
+   data cleaning (결측치, outlier)
+   feature extraction (범주형을 0,1로 바꿔주기)
+   feature selection
+
+
