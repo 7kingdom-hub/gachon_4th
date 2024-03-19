@@ -28,10 +28,6 @@
 3주차 진행과정
 1. 내용 복습
 2. .csv는 read_csv / .xlsx는 read_excel
-3. data Loading
-   data collection
-   data cleaning (결측치, outlier)
-   feature extraction (범주형을 0,1로 바꿔주기)
-   feature selection
+3. data Loading, data collection, data cleaning (결측치, outlier), feature extraction (범주형을 0,1로 바꿔주기), feature selection
 
 
