@@ -13,6 +13,11 @@
 3. 타이타닉 데이터를 사용해서 데이터 관리 진행 방식과 방법 숙지
 4. *당뇨병 데이터를 사용해서 사이버캠퍼스 과제 완료
 
+4주차(3월 25일) 과제
+1. github example을 보고 feature selection 수행(best mse?)
+2. 아이리스 예제를 회귀문제로 (sepal length 예측)
+3. knn도 해보기 (optional)
+
 #중요 개념<br>
 
 2주차 진행과정
